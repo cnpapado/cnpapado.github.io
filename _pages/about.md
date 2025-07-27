@@ -9,9 +9,7 @@ profile:
   image: fancy-glasses.jpg
   image_circular: false # crops the image to make it circular
   more_info: >  
-    <p>Technological Institute, Room L444</p>
-    <p>2145 Sheridan Road</p>
-    <p>Evanston, IL 60208</p>
+    <p>Technological Institute, Room L444, 2145 Sheridan Road, Evanston, IL 60208</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,3 +26,4 @@ latest_posts:
 ---
 
 I am a first year PhD student at Northwestern University advised by [Prof. Jakub Szefer](https://caslab.io/jakub/). I am broadly interested in quantum computing architectures and quantum computing security.
+
