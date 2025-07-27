@@ -6,7 +6,7 @@ subtitle: Computer Engineering PhD student, Northwestern University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fancy-glasses.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
