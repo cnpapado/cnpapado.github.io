@@ -2,96 +2,95 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Konstantinos-Nikolaos Papadopoulos
+    - name: Email
+      value: kpapado@u.northwestern.edu
+    - name: Location
+      value: Chicago, IL, USA
     - name: Languages
-      value: English, German
+      value: Greek (Native), English (TOEFL iBT 108/120), German (B2 level)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Engineering
+      institution: Northwestern University
+      year: 2025–30 (exp.)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Advisor: Prof. Jakub Szefer"
+        - "Research interests: quantum computing security, modular quantum architectures, quantum computer architecture"
+    - title: Joint BSc and MSc Diploma in Electrical and Computer Engineering
+      institution: National Technical University of Athens
+      year: 2018–24
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 8.91/10 (top 5% of cohort)"
+        - "Related courses: Advanced Computer Architecture, Multi-Body Physics and Quantum Computers, Compilers, Digital VLSI Systems, Operating Systems, Wave and Quantum Physics"
+    - title: Master thesis (visiting exchange student)
+      institution: Technical University of Denmark
+      year: 2023
+      description:
+        - "Advisors: Prof. Dionisios Pnevmatikatos (NTUA), Prof. José M.G. Merayo (DTU Space)"
+        - "Title: Microarchitectural Approaches to Fault Tolerance in Spaceborne Processors"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher - Security of Quantum Computers
+      institution: Northwestern University
+      year: 2024-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Advisor: Prof. Jakub Szefer"
+        - "Designing quantum circuit obfuscation schemes for untrusted quantum computing cloud providers"
+    - title: Researcher - Hardware Security for Machine Learning
+      institution: National Technical University of Athens / IMDEA
+      year: 2024-25
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - "Advisors: Prof. Dionisios Pnevmatikatos (NTUA) and Prof. Thaleia Doudali (IMDEA SW Institute)"
+        - "Designed a remote power side channel attack for FPGA LLM inference accelerators"
+    - title: Researcher - Microarchitectural Fault Tolerance
+      institution: National Technical University of Athens / Technical University of Denmark
+      year: 2023–24
       description:
+        - "Advisors: Prof. Dionisios Pnevmatikatos (NTUA) and Prof. José M.G. Meray (DTU)"
+        - "Evaluated microarchitectural hardware fault detection in different safety-critical application scenarios"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Publications
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - "Full list available at: <a href=\"https://scholar.google.com/citations?user=k4a4NVwAAAAJ\">Google Scholar</a>"
+
+- title: Teaching Experience
+  type: list
+  contents:
+    - "Full details available at: <a href=\"https://kpapado.com/teaching\">teaching</a>"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "<b>“Supporting Equity in Education\" Award for Excellence</b> — Awarded by the 2nd Experimental High-school of Athens for promoting educational equity through the “CS for All\" program"
+        - "NASA <b>“Space Apps Challenge Hackathon\" Winner</b> — 1st place nationwide and Global nominee for development of a mobile game motivating users to observe the night sky (<a href=\"https://github.com/cnpapado/WeSat\">github</a>)"
+    - year: 2017
       items:
-        - Max Planck Medal
+        - "<b>NCSR Democritos Internship Award</b> — Issued by the National Institute of Nuclear and Particle Physics “Democritos” to the top 4 students from over 300 participants passing qualifying exams"
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Service
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "See full service record at: <a href=\"https://kpapado.com/service\">service</a>"
+
+- title: Research/Engineering Activities
+  type: time_table
+  contents:
+    - title: Embedded/Motor control engineer
+      institution: Prometheus Eco Racing NTUA Student Team
+      year: 2021–22
+      description:
+        - "Member of student research team building efficient electric vehicles for global engineering competitions"
+        - "Developed embedded firmware for motor control"
+        - title: "Organized and presented two conference tutorials:"
+          contents:
+            - "“Embedded AI: application in real-time electric motor predictive maintenance\", <b>13th Pan-Hellenic Electrical - Computer Engineering Students’ Conference</b>, University of Patras (<a href=\"https://web.archive.org/web/20220814132100/https://sfhmmy.gr/en/the-conference/workshops/embedded-ai/\">abstract</a>, <a href=\"https://github.com/cnpapado/embedded-ai-sfhmmy22\">github</a>)"
+            - "“Permanent Magnet Synchronous Motor Random Optimisation\", <b>12th Pan-Hellenic Electrical - Computer Engineering Students’ Conference</b>, University of Patras (held remote)"
+

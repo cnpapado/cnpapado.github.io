@@ -8,18 +8,19 @@ nav_order: 6
 ---
 
 
-- **Undergraduate Thesis Mentor Assistant**, NTUA (2024–2025)  
-  Mentored thesis on clustered superscalar microarchitecture using Gem5  
+- **Mentor Assistant in Undergraduate thesis**, NTUA (2024–2025)  
+  Mentored undergraduate thesis on clustered superscalar microarchitectures using Gem5  
   Advisor: Prof. D. Pnevmatikatos
 
 - **Lab Assistant**, NTUA (2019–2020)  
-  Courses: Programming Techniques, Introduction to Programming
+  Courses: Programming Techniques, Introduction to Programming<br>
+  Professors: N. Papaspyrou, S. Zachos, D. Fotakis, A. Pagourtzis, G. Stamou, G. Goumas
 
-- **Founder**, *CS for All*, 2nd Experimental High-school of Athens (2019–2020)  
-  Outreach program in computer science  
+- **Tutor/Founder**, *CS for All*, 2nd Experimental High-school of Athens (2019–2020)  
+  Proposed, and launched a computer science outreach program, teaching algorithmic thinking and programming, developing also the curriculum and <a href="https://drive.google.com/drive/folders/1oU8m1G3omC7s2QtRd20HL3zrb732LOKk?usp=sharing">material</a><br>
   Supervisor: Dr. Alexandra A. Gasparinatou
 
 - **Tutor**, BOI Preparation Camp, NTUA (2018)  
-  Tutored high school students for the Balkan Olympiad in Informatics
-
+  Tutored high school students for the Balkan Olympiad in Informatics<br>
+  Supervisor: Prof. N. Papaspyrou
 
